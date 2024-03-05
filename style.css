@@ -1,0 +1,35 @@
+body{
+    background-color: skyblue;
+
+}
+
+#Page1{
+
+    background-color: white;
+    padding: 40%,20% ,40% 20%;
+    margin: 50px 10px;
+}
+
+.main-header{
+    display: flex;
+}  
+navbar {
+    display: inline;
+}
+.navbar p{
+    margin-right: 100px;
+}
+#nav-bar{
+    
+   display: flex;
+   
+   justify-content: space-between;
+
+}
+button{
+    background-color: black;
+    color: antiquewhite;
+    border: 5px;
+    border-radius: 10px;
+    padding: 5px;
+}
